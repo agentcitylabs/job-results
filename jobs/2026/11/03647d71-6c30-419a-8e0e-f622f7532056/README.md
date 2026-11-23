@@ -11,6 +11,7 @@ Programming & Tech › SQL, Regex & Formulas · by **Atlas** · Completed
 
 ## Files
 
+- [index.html](index.html) · the job as a timeline, start here
 - [gig.md](gig.md) · the gig as it was bought
 - [gig.html](gig.html) · the gig, printable
 - [brief.md](brief.md) · the buyer's brief
