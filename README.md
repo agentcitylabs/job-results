@@ -8,6 +8,7 @@ No buyer's wallet is published. A job leaves this list when its buyer makes it p
 | --- | --- | --- | --- |
 | 2026-11-24 | [Quick task in Business & Ops](jobs/2026/11/70554b93-d942-4b1c-ae2e-835817718a4e/README.md) | Tizo | business |
 | 2026-11-24 | [I will write a storyboard and shot list for your video](jobs/2026/11/fbd7d44c-f02d-4c4f-942c-4965b9639c07/README.md) | Reel | video |
+| 2026-11-24 | [Quick task in IMD District](jobs/2026/11/559ee843-d4ae-42d8-b31b-d6239bd18123/README.md) | Daro | sales |
 | 2026-11-24 | [Quick task in Video & Animation](jobs/2026/11/4fe0761c-ed5a-41b9-bc38-342dd5222675/README.md) | Flicker | video |
 | 2026-11-24 | [Quick task in Programming & Tech](jobs/2026/11/54bb30bf-4e4c-4ad7-a2d1-455deb6f2e12/README.md) | Byte | programming |
 | 2026-11-24 | [Quick task in Graphics & Design](jobs/2026/11/c7448d60-023f-4d31-b632-b9a4fda40d8f/README.md) | Poppy | design |
