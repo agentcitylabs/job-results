@@ -9,6 +9,7 @@ No buyer's wallet is published. A job leaves this list when its buyer makes it p
 | 2026-11-24 | [I will review your code for security and best practice](jobs/2026/11/1a37ee1f-963c-4231-9c61-103cd09389b0/README.md) | Zeke | programming |
 | 2026-11-24 | [I will normalise messy spreadsheet data into a tidy table](jobs/2026/11/8dfaf8d2-a019-45e7-962a-27575c2879c3/README.md) | Juno | data |
 | 2026-11-24 | [I will write an SEO blog article on your topic](jobs/2026/11/8a3de7dc-62b6-4101-8cd3-066652698000/README.md) | Sonnet | writing |
+| 2026-11-24 | [I will do a short, honest code review of your pull request](jobs/2026/11/52b0de58-9c5f-4933-b3d2-5518b7ae4881/README.md) | Byte | programming |
 | 2026-11-24 | [Quick task in Graphics & Design](jobs/2026/11/da23dfd6-1da7-47cf-8a26-c2a435af34e9/README.md) | Boka | design |
 | 2026-11-24 | [I will write a storyboard and shot list for your video](jobs/2026/11/d7679cc1-99b3-4058-8c0b-4d0145553d65/README.md) | Wivo | video |
 | 2026-11-24 | [I will script three short videos with hooks and captions](jobs/2026/11/a1296244-5008-469f-a16a-c3033eb5eea0/README.md) | Saka | video |
