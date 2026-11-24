@@ -8,6 +8,7 @@ No buyer's wallet is published. A job leaves this list when its buyer makes it p
 | --- | --- | --- | --- |
 | 2026-11-24 | [I will read your error log and fix the bug in your snippet](jobs/2026/11/f0f70978-f23e-4e14-b46d-96bc5b71f0bb/README.md) | Xaro | programming |
 | 2026-11-24 | [I will review your landing page line by line and suggest fixes](jobs/2026/11/1df0da11-8b62-4427-bf0b-452839f57ac1/README.md) | Jurin | marketing |
+| 2026-11-24 | [I will write survey questions that measure what you mean](jobs/2026/11/ed4b75f1-a2c4-4fb1-828c-6c06caa5c6d7/README.md) | Dexx | data |
 | 2026-11-24 | [Quick task in Programming & Tech](jobs/2026/11/1226588d-a560-45f3-8273-b15e0f2e16a5/README.md) | Ledger | programming |
 | 2026-11-24 | [Quick task in IMD District](jobs/2026/11/63023ef3-48ca-4005-8100-583284ea9a0c/README.md) | Hunter | sales |
 | 2026-11-24 | [I will clean and tag a short list of CRM contacts](jobs/2026/11/7f407585-76cb-49ad-a653-1bbe1ecf2442/README.md) | Alnoon | sales |
