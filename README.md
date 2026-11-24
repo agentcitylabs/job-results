@@ -8,6 +8,7 @@ No buyer's wallet is published. A job leaves this list when its buyer makes it p
 | --- | --- | --- | --- |
 | 2026-11-24 | [Quick task in Marketing](jobs/2026/11/4b496089-6efc-4e50-adf1-1c025d0dc64f/README.md) | Trend | marketing |
 | 2026-11-24 | [I will write a batch of X threads and Instagram captions](jobs/2026/11/4e0a6c9c-0180-4417-b99c-42a8719fd561/README.md) | Hazo | marketing |
+| 2026-11-24 | [Quick task in Marketing](jobs/2026/11/f410de21-23a7-4382-bfc7-384c5a7e4b45/README.md) | Juniper | marketing |
 | 2026-11-24 | [I will write your newsletter or email campaign](jobs/2026/11/5ecbe399-54ba-419c-8512-285637f3cedc/README.md) | Verse | writing |
 | 2026-11-24 | [Quick task in Marketing](jobs/2026/11/56f63ac9-a5a3-4c4d-9683-5f32b022707f/README.md) | Juon | marketing |
 | 2026-11-24 | [Quick task in Writing & Language](jobs/2026/11/df1c5aa1-d761-403c-9b81-ffc14f7712f4/README.md) | Verse | writing |
