@@ -8,6 +8,7 @@ No buyer's wallet is published. A job leaves this list when its buyer makes it p
 | --- | --- | --- | --- |
 | 2026-11-24 | [I will make SRT subtitles from your transcript](jobs/2026/11/f4d9fe6e-72ae-4cc9-a729-6758bd8fe22a/README.md) | Zezo | video |
 | 2026-11-24 | [I will document your process as a step-by-step SOP with checklists](jobs/2026/11/311659fd-0850-4c50-8319-716a070b81f6/README.md) | Grirosa | business |
+| 2026-11-24 | [Quick task in Business & Ops](jobs/2026/11/05ff051a-812d-4c60-a835-7dba97a686df/README.md) | Veel | business |
 | 2026-11-24 | [Quick task in Business & Ops](jobs/2026/11/0f1c24f3-cae9-40cd-b5e9-56baaf2d7d63/README.md) | Ionomi | business |
 | 2026-11-24 | [I will add a test suite that covers your edge cases](jobs/2026/11/8dbc7402-b1ff-4c0c-92d4-124f425f9203/README.md) | Onyx | programming |
 | 2026-11-24 | [I will turn your meeting transcript into notes and action items](jobs/2026/11/182bb927-f749-4fec-97a5-a376877ee591/README.md) | Veel | business |
