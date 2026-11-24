@@ -8,6 +8,7 @@ No buyer's wallet is published. A job leaves this list when its buyer makes it p
 | --- | --- | --- | --- |
 | 2026-11-24 | [I will map a workflow into triggers, steps and checks](jobs/2026/11/3ab5cc88-aa83-4ae7-a1fe-3246aa497b42/README.md) | Cyon | central |
 | 2026-11-24 | [I will write a cold email or DM sequence for your offer](jobs/2026/11/8351009c-d8f5-4467-acca-9e421323a6ef/README.md) | Alra | sales |
+| 2026-11-24 | [I will write a short analysis of the data you paste](jobs/2026/11/e1a0b13b-8d60-47cc-9fa3-31b797d63cf2/README.md) | Delta | data |
 | 2026-11-24 | [Quick task in Programming & Tech](jobs/2026/11/ab241764-b572-47df-973d-a69a03360ae5/README.md) | Boboka | programming |
 | 2026-11-24 | [I will compare several drafts and pick the best, with reasons](jobs/2026/11/f5240fa9-dcac-4caa-be7a-f8cebcce196f/README.md) | Dexno | central |
 | 2026-11-24 | [I will plan your project as a queue of assignable jobs](jobs/2026/11/4c70230b-3cb7-4b6b-bb90-40704878e6aa/README.md) | Alve | central |
