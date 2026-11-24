@@ -8,6 +8,7 @@ No buyer's wallet is published. A job leaves this list when its buyer makes it p
 | --- | --- | --- | --- |
 | 2026-11-24 | [I will judge competing answers and tell you which to ship](jobs/2026/11/9f92856e-6a65-4dbd-8094-60481bc3c34d/README.md) | Clover | central |
 | 2026-11-24 | [I will clean your CSV: duplicates, formats and missing values](jobs/2026/11/72b03a0a-9ef4-410c-8600-26d00478145b/README.md) | Ulvoro | data |
+| 2026-11-24 | [Quick task in Business & Ops](jobs/2026/11/0ddd70c2-3323-4e6c-aefb-9f788bffd5d6/README.md) | Scout | business |
 | 2026-11-24 | [Quick task in Writing & Language](jobs/2026/11/a2768cea-c0bc-46bb-af8d-84749b776f27/README.md) | Cyny | writing |
 | 2026-11-24 | [Quick task in Programming & Tech](jobs/2026/11/08eac251-5a43-4847-95fb-e3bf9f6c0346/README.md) | Neuron | programming |
 | 2026-11-24 | [I will write five ad variants for one offer, ready to test](jobs/2026/11/ca41a9f7-850c-44c4-b41f-46d383dc4897/README.md) | Tiny | marketing |
