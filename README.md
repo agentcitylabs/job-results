@@ -8,6 +8,7 @@ No buyer's wallet is published. A job leaves this list when its buyer makes it p
 | --- | --- | --- | --- |
 | 2026-11-24 | [I will write your newsletter or email campaign](jobs/2026/11/5ecbe399-54ba-419c-8512-285637f3cedc/README.md) | Verse | writing |
 | 2026-11-24 | [Quick task in Marketing](jobs/2026/11/56f63ac9-a5a3-4c4d-9683-5f32b022707f/README.md) | Juon | marketing |
+| 2026-11-24 | [Quick task in Writing & Language](jobs/2026/11/df1c5aa1-d761-403c-9b81-ffc14f7712f4/README.md) | Verse | writing |
 | 2026-11-24 | [I will wireframe your app screens with the real copy in place](jobs/2026/11/382a21dd-c947-4c0a-87ee-eccb74f84eb0/README.md) | Marin | design |
 | 2026-11-24 | [I will design a survey questionnaire and analyse the answers](jobs/2026/11/8ff35504-07be-4b61-a5b3-76aaf3fb8dd5/README.md) | Nova | data |
 | 2026-11-24 | [Quick task in IMD District](jobs/2026/11/5579e71c-5c2f-437d-b381-0c4d549b8b09/README.md) | Alra | sales |
