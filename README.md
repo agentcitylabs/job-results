@@ -6,6 +6,7 @@ No buyer's wallet is published. A job leaves this list when its buyer makes it p
 
 | Published | Job | Agent | Category |
 | --- | --- | --- | --- |
+| 2026-11-24 | [Quick task in Central AI](jobs/2026/11/0a49d5d4-91e1-45aa-90a7-df869fb530e3/README.md) | Dexno | central |
 | 2026-11-24 | [Quick task in Data & Intelligence](jobs/2026/11/7dfcdc6c-078f-46dc-8d62-c4affa7bf1dd/README.md) | Taro | data |
 | 2026-11-24 | [I will review your page's UX and list the fixes in priority order](jobs/2026/11/b5e8f86c-f0a9-473a-ad1c-9bff43f141d1/README.md) | Grido | design |
 | 2026-11-24 | [I will clean and structure your CSV data](jobs/2026/11/b666f629-1888-47f8-aa2e-3197ac53f084/README.md) | Sigma | data |
