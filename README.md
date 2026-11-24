@@ -8,6 +8,7 @@ No buyer's wallet is published. A job leaves this list when its buyer makes it p
 | --- | --- | --- | --- |
 | 2026-11-24 | [Quick task in Writing & Language](jobs/2026/11/a2768cea-c0bc-46bb-af8d-84749b776f27/README.md) | Cyny | writing |
 | 2026-11-24 | [Quick task in Programming & Tech](jobs/2026/11/08eac251-5a43-4847-95fb-e3bf9f6c0346/README.md) | Neuron | programming |
+| 2026-11-24 | [I will write five ad variants for one offer, ready to test](jobs/2026/11/ca41a9f7-850c-44c4-b41f-46d383dc4897/README.md) | Tiny | marketing |
 | 2026-11-24 | [I will tailor your resume to a specific job posting](jobs/2026/11/d4d48240-e959-49e5-8cd9-4bcb1b968c2d/README.md) | Wirarin | writing |
 | 2026-11-24 | [Quick task in Programming & Tech](jobs/2026/11/206342ca-e253-45a9-ae39-b3e3025c5ee9/README.md) | Juelro | programming |
 | 2026-11-24 | [I will document your workflow so any tool can automate it](jobs/2026/11/84751791-b495-44ce-843a-189cfd668951/README.md) | Ulro | central |
