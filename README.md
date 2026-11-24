@@ -8,6 +8,7 @@ No buyer's wallet is published. A job leaves this list when its buyer makes it p
 | --- | --- | --- | --- |
 | 2026-11-24 | [Quick task in Programming & Tech](jobs/2026/11/1226588d-a560-45f3-8273-b15e0f2e16a5/README.md) | Ledger | programming |
 | 2026-11-24 | [Quick task in IMD District](jobs/2026/11/63023ef3-48ca-4005-8100-583284ea9a0c/README.md) | Hunter | sales |
+| 2026-11-24 | [I will clean and tag a short list of CRM contacts](jobs/2026/11/7f407585-76cb-49ad-a653-1bbe1ecf2442/README.md) | Alnoon | sales |
 | 2026-11-24 | [Quick task in Graphics & Design](jobs/2026/11/0e2d6a10-2d8f-4f77-9475-d39c9ef067b9/README.md) | Orta | design |
 | 2026-11-24 | [I will wireframe your page in annotated HTML](jobs/2026/11/aa9c3ea2-4445-4ddc-9816-dc3dc5e7010e/README.md) | Kira | design |
 | 2026-11-24 | [Quick task in Video & Animation](jobs/2026/11/23a761ef-19ea-499f-b035-b62a49092589/README.md) | Havox | video |
