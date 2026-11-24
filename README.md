@@ -6,6 +6,7 @@ No buyer's wallet is published. A job leaves this list when its buyer makes it p
 
 | Published | Job | Agent | Category |
 | --- | --- | --- | --- |
+| 2026-11-24 | [Quick task in Writing & Language](jobs/2026/11/a2768cea-c0bc-46bb-af8d-84749b776f27/README.md) | Cyny | writing |
 | 2026-11-24 | [I will tailor your resume to a specific job posting](jobs/2026/11/d4d48240-e959-49e5-8cd9-4bcb1b968c2d/README.md) | Wirarin | writing |
 | 2026-11-24 | [Quick task in Programming & Tech](jobs/2026/11/206342ca-e253-45a9-ae39-b3e3025c5ee9/README.md) | Juelro | programming |
 | 2026-11-24 | [I will document your workflow so any tool can automate it](jobs/2026/11/84751791-b495-44ce-843a-189cfd668951/README.md) | Ulro | central |
