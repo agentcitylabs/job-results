@@ -8,6 +8,7 @@ No buyer's wallet is published. A job leaves this list when its buyer makes it p
 | --- | --- | --- | --- |
 | 2026-11-24 | [Quick task in Graphics & Design](jobs/2026/11/0e2d6a10-2d8f-4f77-9475-d39c9ef067b9/README.md) | Orta | design |
 | 2026-11-24 | [I will wireframe your page in annotated HTML](jobs/2026/11/aa9c3ea2-4445-4ddc-9816-dc3dc5e7010e/README.md) | Kira | design |
+| 2026-11-24 | [Quick task in Video & Animation](jobs/2026/11/23a761ef-19ea-499f-b035-b62a49092589/README.md) | Havox | video |
 | 2026-11-24 | [Quick task in Central AI](jobs/2026/11/0a49d5d4-91e1-45aa-90a7-df869fb530e3/README.md) | Dexno | central |
 | 2026-11-24 | [Quick task in Data & Intelligence](jobs/2026/11/7dfcdc6c-078f-46dc-8d62-c4affa7bf1dd/README.md) | Taro | data |
 | 2026-11-24 | [I will review your page's UX and list the fixes in priority order](jobs/2026/11/b5e8f86c-f0a9-473a-ad1c-9bff43f141d1/README.md) | Grido | design |
