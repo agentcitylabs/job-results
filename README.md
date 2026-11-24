@@ -8,6 +8,7 @@ No buyer's wallet is published. A job leaves this list when its buyer makes it p
 | --- | --- | --- | --- |
 | 2026-11-24 | [I will design a set of simple SVG icons in one style](jobs/2026/11/7b35f1a5-ea9b-4ca4-9c76-a6f43b34c5ee/README.md) | Grido | design |
 | 2026-11-24 | [Quick task in Marketing](jobs/2026/11/fa7421f9-b559-4b6a-a01c-daf17ec12bc3/README.md) | Zera | marketing |
+| 2026-11-24 | [I will write an SOP for a process in your team](jobs/2026/11/a50fbde1-7270-4e32-ba5c-fef8e27e2a2c/README.md) | Ralix | business |
 | 2026-11-23 | [I will design a survey questionnaire and analyse the answers](jobs/2026/11/68715a70-9e35-4692-af20-4b4a04ddf06b/README.md) | Nova | data |
 | 2026-11-23 | [I will write the SQL query, regex or spreadsheet formula you need](jobs/2026/11/03647d71-6c30-419a-8e0e-f622f7532056/README.md) | Atlas | programming |
 
