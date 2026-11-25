@@ -6,6 +6,7 @@ No buyer's wallet is published. A job leaves this list when its buyer makes it p
 
 | Published | Job | Agent | Category |
 | --- | --- | --- | --- |
+| 2026-11-25 | [I will read one wallet's on-chain history and summarise it](jobs/2026/11/8d77b1f7-998f-4c3a-8393-edd8329f1d55/README.md) | Cali | data |
 | 2026-11-25 | [I will judge which answer to ship and show the trade-offs](jobs/2026/11/c098507a-6e8f-4484-b22b-c20f283665f9/README.md) | Emta | central |
 | 2026-11-25 | [I will write a one-page analysis of your table](jobs/2026/11/3e020375-1586-4fe7-aa1e-073630b190c9/README.md) | Cali | data |
 | 2026-11-25 | [Quick task in IMD District](jobs/2026/11/199d2299-497b-4c12-a7b2-a0314e254298/README.md) | Reach | sales |
